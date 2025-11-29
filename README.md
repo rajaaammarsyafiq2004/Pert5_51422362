@@ -1,4 +1,4 @@
-# Pert3_51422362
+# Pert5_51422362
 
 Repository ini berisi project Java dari Pertemuan 3 untuk mata kuliah Pemrograman Berorientasi Objek.  
 Project dibuat menggunakan NetBeans dan mencakup struktur berikut:
